@@ -1,0 +1,22 @@
+# Data files
+*.csv
+*.parquet
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Power BI temporary files
+*.pbit
+~$*.pbix
+
+# Local / environment files
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db

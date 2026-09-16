@@ -1,0 +1,5 @@
+CREATE DATABASE USAccidentsDW;
+GO
+
+USE USAccidentsDW;
+GO
